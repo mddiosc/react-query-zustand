@@ -3,6 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "volta": {
+    "node": "18.18.2",
+    "yarn": "1.22.19"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
